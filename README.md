@@ -5,8 +5,7 @@ Habits Consistent
 
 The Habit Tracker app facilitates the creation of personalized habits, enabling users to manage their waking and sleep schedules, physical activities like running or walking, and coding routines tracked through GitHub commits
 
-Contract Address: 0x3b150eCEDFE0b8E15cFfb992fE12f9c253Ca261f
-
+Contract Address: 0xdDd8F617ad12DB538fbb7aA2a95d85A9DF346dA5
 
 
 
